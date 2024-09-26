@@ -1,4 +1,6 @@
 # DAO Smart Contract
+id:- 0x90b924929a4ac5b0535e533f36467a1708902b93f187e444848ecc309e916f5b
+sc:- ![image](https://github.com/user-attachments/assets/ded9514f-72d5-4b58-8cd3-979745495048)
 
 ## Vision
 
